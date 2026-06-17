@@ -1,5 +1,5 @@
-<h1 align="center">Simulação de Dinâmica Populacional usando o modelo de Lotka-Volterra</h1>
-Esse repositório contém o código-fonte desenvolvido para o Projeto Final de Práticas em Ciências de Dados, cuja proposta é para a análise tanto quantitativa tanto qualitativa da simulação de dinâmicas populacionais usando o modelo de Lotka-Volterra.
+<h1 align="center">Estudo de Dinâmicas Populacionais por Meio de Modelagem Matemática e Análise de Dados em Python</h1>
+Esse repositório contém o código-fonte desenvolvido para o Projeto Final de Práticas em Ciências de Dados, cujo objetivo é investigar a dinâmica de populações por meio de modelagem matemática e simulações computacionais em Python. A abordagem contempla diferentes modelos teóricos, como o crescimento exponencial, o crescimento logístico e o sistema predador‑presa de Lotka‑Volterra, possibilitando uma análise quantitativa e qualitativa dos padrões de crescimento e das interações ecológicas.
 
 ## Autoria
 Giovanna Avellar Machado - aluna do primeiro semestre do Bacharelado em Ciência, Tecnologia e Inovação da Ilum - Escola de Ciência 
