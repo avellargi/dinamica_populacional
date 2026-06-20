@@ -9,11 +9,9 @@
 Esse repositório contém o código-fonte desenvolvido para o Projeto Final de Práticas em Ciências de Dados, cujo objetivo é investigar a dinâmica de populações por meio de modelagem matemática e simulações computacionais em Python. A abordagem contempla diferentes modelos teóricos, como o crescimento exponencial, o crescimento logístico e o sistema predador‑presa de Lotka‑Volterra, possibilitando uma análise quantitativa e qualitativa dos padrões de crescimento e das interações ecológicas.
 
 ## Modelos Analisados
-- Crescimento Exponencial (Malthus): implementado por meio da solução analítica da equação diferencial, representando um crescimento ilimitado da população;
-  
-- Crescimento Logístico (Verhulst): modelado considerando a capacidade de suporte do ambiente, incorporando limitações de recursos;
-  
-- Modelo Predador‑Presa (Lotka‑Volterra): um par de equações diferenciais de primeira ordem, não lineares, que são usadas para descrever a dinâmica de sistemas biológicos nos quais duas espécies interagem, uma como presa e a outra como predador
+- **Crescimento Exponencial (Malthus):** modelo descrito pela solução analítica de uma equação diferencial, representando crescimento ilimitado da população;
+- **Crescimento Logístico (Verhulst):** modelo que incorpora a capacidade de suporte do ambiente, considerando limitações de recursos;
+- **Modelo Predador‑Presa (Lotka‑Volterra):** sistema de equações diferenciais de primeira ordem, não linear, utilizado para descrever a interação entre duas espécies, uma como presa e outra como predador.
 
 ## Teconlogias Utilizadas
 - NumPy
