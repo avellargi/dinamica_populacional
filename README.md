@@ -2,7 +2,7 @@
 <h1 align="center">Estudo de Dinâmicas Populacionais por Meio de Modelagem Matemática e Análise de Dados em Python</h1>
 Esse repositório contém o código-fonte desenvolvido para o Projeto Final de Práticas em Ciências de Dados, cujo objetivo é investigar a dinâmica de populações por meio de modelagem matemática e simulações computacionais em Python. A abordagem contempla diferentes modelos teóricos, como o crescimento exponencial, o crescimento logístico e o sistema predador‑presa de Lotka‑Volterra, possibilitando uma análise quantitativa e qualitativa dos padrões de crescimento e das interações ecológicas.
 
-## Modelos analisados:
+## Modelos Analisados
 - Crescimento Exponencial (Malthus): implementado por meio da solução analítica da equação diferencial, representando um crescimento ilimitado da população;
   
 - Crescimento Logístico (Verhulst): modelado considerando a capacidade de suporte do ambiente, incorporando limitações de recursos;
