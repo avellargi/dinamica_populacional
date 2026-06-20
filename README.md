@@ -2,7 +2,9 @@
 
 <h1 align="center">Estudo de Dinâmicas Populacionais por Meio de Modelagem Matemática e Análise de Dados em Python</h1>
 
-<img scr= "imagens/header.png"/>
+<p align="center">
+  <img src="imagens/header (1).png" />
+</p>
 
 Esse repositório contém o código-fonte desenvolvido para o Projeto Final de Práticas em Ciências de Dados, cujo objetivo é investigar a dinâmica de populações por meio de modelagem matemática e simulações computacionais em Python. A abordagem contempla diferentes modelos teóricos, como o crescimento exponencial, o crescimento logístico e o sistema predador‑presa de Lotka‑Volterra, possibilitando uma análise quantitativa e qualitativa dos padrões de crescimento e das interações ecológicas.
 
