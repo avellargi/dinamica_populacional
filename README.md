@@ -6,7 +6,8 @@
   <img src="imagens/header (1).png" />
 </p>
 
-Esse repositório contém o código-fonte desenvolvido para o Projeto Final de Práticas em Ciências de Dados, cujo objetivo é investigar a dinâmica de populações por meio de modelagem matemática e simulações computacionais em Python. A abordagem contempla diferentes modelos teóricos, como o crescimento exponencial, o crescimento logístico e o sistema predador‑presa de Lotka‑Volterra, possibilitando uma análise quantitativa e qualitativa dos padrões de crescimento e das interações ecológicas.
+$ \ \ \ \ \ $ Esse repositório contém o código-fonte desenvolvido para o Projeto Final de Práticas em Ciências de Dados, cujo objetivo é investigar a dinâmica de populações por meio de modelagem matemática e simulações computacionais em Python. A abordagem contempla diferentes modelos teóricos, como o crescimento exponencial, o crescimento logístico e o sistema predador‑presa de Lotka‑Volterra, possibilitando uma análise quantitativa e qualitativa dos padrões de crescimento e das interações ecológicas.
+$ \ \ \ \ \ $  Além disso, o projeto incorpora uma interface interativa, que permite ao usuário manipular os parâmetros dos modelos em tempo real. Dessa forma, é possível explorar como variações na taxa de crescimento, população inicial e capacidade de suporte influenciam diretamente o comportamento dos sistemas, proporcionando uma compreensão mais intuitiva e dinâmica dos fenômenos estudados.
 
 ## Modelos Analisados
 - **Crescimento Exponencial (Malthus):** modelo descrito pela solução analítica de uma equação diferencial, representando crescimento ilimitado da população;
@@ -21,6 +22,9 @@ Esse repositório contém o código-fonte desenvolvido para o Projeto Final de P
 - SciPy
 
 - ipywidgets
+
+## Acesso ao código
+As informações detalhadas do projeto, incluindo explicações teóricas, construção de funções para os modelos matemáticos e a plotagem dos gráficos, seguida de análise e discussão dos resultados estão disponíveis no repositório em: [código](https://github.com/avellargi/dinamica_populacional/tree/main/codigo)
 
 ## Autoria
 Giovanna Avellar Machado - aluna do primeiro semestre do Bacharelado em Ciência, Tecnologia e Inovação da Ilum - Escola de Ciência 
