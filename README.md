@@ -6,8 +6,11 @@
   <img src="imagens/header (1).png" />
 </p>
 
-$ \ \ \ \ \ $ Esse repositório contém o código-fonte desenvolvido para o Projeto Final de Práticas em Ciências de Dados, cujo objetivo é investigar a dinâmica de populações por meio de modelagem matemática e simulações computacionais em Python. A abordagem contempla diferentes modelos teóricos, como o crescimento exponencial, o crescimento logístico e o sistema predador‑presa de Lotka‑Volterra, possibilitando uma análise quantitativa e qualitativa dos padrões de crescimento e das interações ecológicas.
-$ \ \ \ \ \ $  Além disso, o projeto incorpora uma interface interativa, que permite ao usuário manipular os parâmetros dos modelos em tempo real. Dessa forma, é possível explorar como variações na taxa de crescimento, população inicial e capacidade de suporte influenciam diretamente o comportamento dos sistemas, proporcionando uma compreensão mais intuitiva e dinâmica dos fenômenos estudados.
+Esse repositório contém o código-fonte desenvolvido para o Projeto Final de Práticas em Ciências de Dados, cujo objetivo é investigar a dinâmica de populações por meio de modelagem matemática e simulações computacionais em Python. A abordagem contempla diferentes modelos teóricos, como o crescimento exponencial, o crescimento logístico e o sistema predador‑presa de Lotka‑Volterra, possibilitando uma análise quantitativa e qualitativa dos padrões de crescimento e das interações ecológicas. <br>
+
+Além disso, o projeto incorpora uma interface interativa, que permite ao usuário manipular os parâmetros dos modelos em tempo real. Dessa forma, é possível explorar como variações na taxa de crescimento, população inicial e capacidade de suporte influenciam diretamente o comportamento dos sistemas, proporcionando uma compreensão mais intuitiva e dinâmica dos fenômenos estudados. <br> 
+
+Nesse sentido, a integração interdisciplinar entre programação, modelagem matemática, biologia e interatividade permite potencializar o estudo de sistemas biológicos, contribuindo para uma compreensão mais completa e aplicada das dinâmicas populacionais.
 
 ## Modelos Analisados
 - **Crescimento Exponencial (Malthus):** modelo descrito pela solução analítica de uma equação diferencial, representando crescimento ilimitado da população;
