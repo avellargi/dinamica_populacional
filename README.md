@@ -53,11 +53,11 @@ Agradeço ao professor Vinícius Francisco Wasques e aos estudantes Filipi Marti
 
 - JUPYTER WIDGETS DEVELOPERS. *Widget List*. ipywidgets documentation. Disponível em: <https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html>. Acesso em: 12 jun. 2026.
 
-- MATPLOTLIB DEVELOPMENT TEAM. *Matplotlib Pyplot tutorial*. Disponível em: <https://matplotlib.org/stable/tutorials/pyplot.html>. Acesso em: 12 jun. 2026.
+- MATPLOTLIB DEVELOPMENT TEAM. *Matplotlib Pyplot tutorial*. Disponível em: <https://matplotlib.org/stable/tutorials/pyplot.html>. Acesso em: 02 jun. 2026.
 
 - NEVES, Renata Toncovitch das; STIEGELMEIER, Elenice Weber; VALENTINO, Michele Cristina. *O modelo de Malthus e Verhulst na dinâmica de populações*. PROCEEDINGS SERIES OF THE BRAZILIAN SOCIETY OF APPLIED AND COMPUTATIONAL MATHEMATICS, Vitória-ES, v. 3, n. 2, 2015.
 
-- NUMPY DEVELOPERS. *NumPy documentation*. Disponível em: <https://numpy.org/doc/>. Acesso em: 12 jun. 2026.
+- NUMPY DEVELOPERS. *NumPy documentation*. Disponível em: <https://numpy.org/doc/>. Acesso em: 02 jun. 2026.
 
 - SCIPY. *scipy.integrate.odeint*. Disponível em: <https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html>. Acesso em: 02 jun. 2026.
 
