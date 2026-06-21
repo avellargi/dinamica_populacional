@@ -44,7 +44,7 @@ Doutorado: Nanociências e Materiais Avançados (UFABC). Pós-Doutorado: UFABC, 
 Doutorado: Bioinformática e Ecologia de Microrganismos (USP). Pós-Doutorado: Laboratório Nacional de Computação Científica (LNCC), Unicamp e Universidade de Viena. Área de Atuação: Bioinformática e Ecologia Numérica.
 
 ## Agradecimentos 
-Agradeço ao professor Vinícius Francisco Wasques e aos estudantes Filipi Martins e Vinícius M. de Marques Cutolo pelo apoio à concretização do projeto idealizado.
+Agradece-se ao professor Vinícius Francisco Wasques e aos estudantes Filipi Martins e Vinícius M. de Marques Cutolo pelo apoio à concretização do projeto idealizado.
 
 ## Referências Bibliográficas
 - EKMEKCI, B.; MCANANY, C. E.; MURA, C. *An introduction to programming for bioscientists: a Python-based primer*. PLoS Computational Biology, v. 12, n. 6, p. e1004867, 2016.
