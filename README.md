@@ -6,7 +6,7 @@
   <img src="imagens/header (1).png" />
 </p>
 
-Esse repositório contém o código-fonte desenvolvido para o Projeto Final de Práticas em Ciências de Dados, cujo objetivo é investigar a dinâmica de populações por meio de modelagem matemática e simulações computacionais em Python. A abordagem contempla diferentes modelos teóricos, como o crescimento exponencial, o crescimento logístico e o sistema predador‑presa de Lotka‑Volterra, possibilitando uma análise quantitativa e qualitativa dos padrões de crescimento e das interações ecológicas. <br>
+Esse repositório contém o código-fonte desenvolvido para o Projeto Final de Práticas em Ciências de Dados, cujo objetivo é investigar a dinâmica de populações por meio de modelagem matemática e simulações computacionais em Python (versão 3.13.7). A abordagem contempla diferentes modelos teóricos, como o crescimento exponencial, o crescimento logístico e o sistema predador‑presa de Lotka‑Volterra, possibilitando uma análise quantitativa e qualitativa dos padrões de crescimento e das interações ecológicas. <br>
 
 Além disso, o projeto incorpora uma interface interativa, que permite ao usuário manipular os parâmetros dos modelos em tempo real. Dessa forma, é possível explorar como variações na taxa de crescimento, população inicial e capacidade de suporte influenciam diretamente o comportamento dos sistemas, proporcionando uma compreensão mais intuitiva e dinâmica dos fenômenos estudados. <br> 
 
@@ -18,22 +18,24 @@ Nesse sentido, a integração interdisciplinar entre programação, modelagem ma
 - **Modelo Predador‑Presa (Lotka‑Volterra):** sistema de equações diferenciais de primeira ordem, não linear, utilizado para descrever a interação entre duas espécies, uma como presa e outra como predador.
 
 ## Teconlogias Utilizadas
-- NumPy: foi empregada para manipulação de arrays e operações matemáticas;
+- NumPy (2.2.6): foi empregada para manipulação de arrays e operações matemáticas;
 
-- Matplotlib: utilizada para a construção de gráficos e visualização dos resultados;
+- Matplotlib (3.10.6): utilizada para a construção de gráficos e visualização dos resultados;
 
-- SciPy: implementada para a resolução numérica de equações diferenciais ordinárias, utilizou‑se a função odeint;
+- SciPy (8.1.7): implementada para a resolução numérica de equações diferenciais ordinárias, utilizou‑se a função odeint;
 
-- ipywidgets: utlizada para a implementação de uma interface gráfica interativa, permitindo a manipulação dos parâmetros do modelo por meio de sliders.
+- ipywidgets (1.16.2): utlizada para a implementação de uma interface gráfica interativa, permitindo a manipulação dos parâmetros do modelo por meio de sliders.
 
 ## Acesso ao código
 As informações detalhadas do projeto, incluindo explicações teóricas, construção de funções para os modelos matemáticos e a plotagem dos gráficos, seguida de análise e discussão dos resultados estão disponíveis no repositório em: [código](https://github.com/avellargi/dinamica_populacional/tree/main/codigo)
 
 ## Autoria
-Giovanna Avellar Machado - aluna do primeiro semestre do Bacharelado em Ciência, Tecnologia e Inovação da Ilum - Escola de Ciência 
+| <img src="https://github.com/avellargi.png" width=115><br><sub>[Giovanna Avellar Machado](https://github.com/avellargi)</sub> |
+| :--: |
+Giovanna Avellar Machado - Aluna do Primeiro Semestre do Bacharelado em Ciência, Tecnologia e Inovação da Ilum - Escola de Ciência 
 
 ## Professores
-| <img loading="lazy" src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" width=115><br><sub> [Prof. Dr. Daneiel Roberto Cassar](http://lattes.cnpq.br/1717397276752482) | <img loading="lazy" src="https://github.com/user-attachments/assets/5be40392-5473-4b8b-b636-a55cbf0114fd" width=115><br><sub> [Prof. Dr. James Moraes de Almeida](http://lattes.cnpq.br/4169321429650165) |  <img loading="lazy" src="https://github.com/user-attachments/assets/ca8bd41b-c6d0-479c-aacd-a3d2c6b45c0d" width=115><br><sub> [Prof. Dr. Leandro Nascimento Lemos](http://lattes.cnpq.br/8039429508021054) |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" width=115><br><sub> [Prof. Dr. Daneiel Roberto Cassar](http://lattes.cnpq.br/1717397276752482) | <img loading="lazy" src="https://github.com/user-attachments/assets/5be40392-5473-4b8b-b636-a55cbf0114fd" width=115><br><sub> [Prof. Dr. James Moraes de Almeida](http://lattes.cnpq.br/4169321429650165) |  <img loading="lazy" src="https://github.com/user-attachments/assets/ca8bd41b-c6d0-479c-aacd-a3d2c6b45c0d" width=115><br><sub> [Prof. Dr. Leandro Nascimento Lemos](http://lattes.cnpq.br/8039429508021054) | 
 | :--: | :---: | :---: |
 
 ## Agradecimentos 
