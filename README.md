@@ -18,13 +18,13 @@ Nesse sentido, a integração interdisciplinar entre programação, modelagem ma
 - **Modelo Predador‑Presa (Lotka‑Volterra):** sistema de equações diferenciais de primeira ordem, não linear, utilizado para descrever a interação entre duas espécies, uma como presa e outra como predador.
 
 ## Teconlogias Utilizadas
-- NumPy
+- NumPy: foi empregada para manipulação de arrays e operações matemáticas;
 
-- Matplotlib
+- Matplotlib: utilizada para a construção de gráficos e visualização dos resultados;
 
-- SciPy
+- SciPy: implementada para a resolução numérica de equações diferenciais ordinárias, utilizou‑se a função odeint;
 
-- ipywidgets
+- ipywidgets: utlizada para a implementação de uma interface gráfica interativa, permitindo a manipulação dos parâmetros do modelo por meio de sliders.
 
 ## Acesso ao código
 As informações detalhadas do projeto, incluindo explicações teóricas, construção de funções para os modelos matemáticos e a plotagem dos gráficos, seguida de análise e discussão dos resultados estão disponíveis no repositório em: [código](https://github.com/avellargi/dinamica_populacional/tree/main/codigo)
