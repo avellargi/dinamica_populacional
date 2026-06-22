@@ -6,7 +6,7 @@
   <img src="imagens/header (1).png" />
 </p>
 
-Esse repositório contém o código-fonte desenvolvido para o Projeto Final de Práticas em Ciências de Dados, cujo objetivo é investigar a dinâmica de populações por meio de modelagem matemática e simulações computacionais em Python (versão 3.13.7). A abordagem contempla diferentes modelos teóricos, como o crescimento exponencial, o crescimento logístico e o sistema predador‑presa de Lotka‑Volterra, possibilitando uma análise quantitativa e qualitativa dos padrões de crescimento e das interações ecológicas. <br>
+Esse repositório contém o código-fonte desenvolvido para o Projeto Final de Práticas em Ciência de Dados, cujo objetivo é investigar a dinâmica de populações por meio de modelagem matemática e simulações computacionais em Python (versão 3.13.7). A abordagem contempla diferentes modelos teóricos, como o crescimento exponencial, o crescimento logístico e o sistema predador‑presa de Lotka‑Volterra, possibilitando uma análise quantitativa e qualitativa dos padrões de crescimento e das interações ecológicas. <br>
 
 Além disso, o projeto incorpora uma interface interativa, que permite ao usuário manipular os parâmetros dos modelos em tempo real. Dessa forma, é possível explorar como variações na taxa de crescimento, população inicial e capacidade de suporte influenciam diretamente o comportamento dos sistemas, proporcionando uma compreensão mais intuitiva e dinâmica dos fenômenos estudados. <br> 
 
