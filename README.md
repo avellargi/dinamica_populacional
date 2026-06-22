@@ -33,15 +33,8 @@ As informações detalhadas do projeto, incluindo explicações teóricas, const
 Giovanna Avellar Machado - aluna do primeiro semestre do Bacharelado em Ciência, Tecnologia e Inovação da Ilum - Escola de Ciência 
 
 ## Professores
-
-### Daniel Roberto Cassar
-Doutorado: Ciência e Engenharia de Materiais (UFSCar) – Pós-doutorado: UFSCar. Área de atuação: Informática de materiais
-
-### James Moraes de Almeida
-Doutorado: Nanociências e Materiais Avançados (UFABC). Pós-Doutorado: UFABC, Ecole Polytechnique Fédérale de Lausanne, USP. Área de atuação: Computação de alto desempenho
-
-### Leandro Nascimento Lemos 
-Doutorado: Bioinformática e Ecologia de Microrganismos (USP). Pós-Doutorado: Laboratório Nacional de Computação Científica (LNCC), Unicamp e Universidade de Viena. Área de Atuação: Bioinformática e Ecologia Numérica.
+| <img loading="lazy" src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" width=115><br><sub> [Prof. Dr. Daneiel Roberto Cassar](http://lattes.cnpq.br/1717397276752482) | <img loading="lazy" src="https://github.com/user-attachments/assets/5be40392-5473-4b8b-b636-a55cbf0114fd" width=115><br><sub> [Prof. Dr. James Moraes de Almeida](http://lattes.cnpq.br/4169321429650165) |  <img loading="lazy" src="https://github.com/user-attachments/assets/ca8bd41b-c6d0-479c-aacd-a3d2c6b45c0d" width=115><br><sub> [Prof. Dr. Leandro Nascimento Lemos](http://lattes.cnpq.br/8039429508021054) |
+| :--: | :---: | :---: |
 
 ## Agradecimentos 
 Agradece-se ao professor Vinícius Francisco Wasques e aos estudantes Filipi Martins e Vinícius M. de Marques Cutolo pelo apoio à concretização do projeto idealizado.
