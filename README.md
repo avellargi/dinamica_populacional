@@ -17,7 +17,7 @@ Nesse sentido, a integração interdisciplinar entre programação, modelagem ma
 - **Crescimento Logístico (Verhulst):** modelo que incorpora a capacidade de suporte do ambiente, considerando limitações de recursos;
 - **Modelo Predador‑Presa (Lotka‑Volterra):** sistema de equações diferenciais de primeira ordem, não linear, utilizado para descrever a interação entre duas espécies, uma como presa e outra como predador.
 
-## Teconlogias Utilizadas
+## Tecnologias Utilizadas
 - NumPy (2.2.6): foi empregada para manipulação de arrays e operações matemáticas;
 
 - Matplotlib (3.10.6): utilizada para a construção de gráficos e visualização dos resultados;
